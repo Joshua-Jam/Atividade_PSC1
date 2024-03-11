@@ -3,4 +3,4 @@ B = input("Segundo valor ")
 aint = int(A)
 bint = int(B)
 soma= bint + aint
-print("X = ",soma)
+print("SOMA = ",soma)
