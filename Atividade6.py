@@ -1,0 +1,10 @@
+meses = input("Meses trabalhados: ")
+horas = input("Horas trabalhados: ")
+valor = input("Valor pela hora de trabalho: ")
+mesint = int(meses)
+horint = int(horas)
+valint = float(valor)
+real = mesint * horint
+salario = real * valint
+print("NUMBER = ", meses)
+print("SALARY = ", salario)

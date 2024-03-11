@@ -1,0 +1,10 @@
+A = input("Primeiro valor ")
+B = input("Segundo valor ")
+C = input("Terceiro valro ")
+D = input("Quarto valor ")
+aint = int(A)
+bint = int(B)
+cint = int(C)
+dint = int(D)
+diff = aint * bint - cint * dint
+print("DIFERENÇA = ",diff)
